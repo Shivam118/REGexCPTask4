@@ -6,13 +6,13 @@
     Output: 1
     Explanation:
         9 can be represented as sum of prime number and twice a square in only one way –
-        N = 9 = 7 + 2*(12)
+        N = 9 = 7 + 2*(1^2)
     Input: N = 15
     Output: 2
     Explanation:
         15 can be represented as sum of prime number and twice a square in two ways –
-        N = 15 = 7 + 2 * (22)
-        N = 15 = 13 + 2 * (12)
+        N = 15 = 7 + 2 * (2^2)
+        N = 15 = 13 + 2 * (1^2)
 */
 
 #include<iostream>
